@@ -1,6 +1,6 @@
 ### Edible and Contaminated Food Classification Using Convolutional Neural Networks
 
-
+ 
 This project focuses on leveraging advanced deep-learning techniques to develop a sophisticated model capable of distinguishing between edible and contaminated food items using image inputs. With the evolution of Neural Networks, numerous deep learning models, optimizers, and activation functions have been introduced. Among these models, the Convolutional Neural Network (CNN) stands out for its ability to identify image features and reduce image dimensions while preserving essential components.
 
 The process begins with preprocessing the required data, crucial for training different deep-learning models, including variations of Convolutional Neural Networks. After training multiple models and evaluating their performance against each other, the optimal performing model is selected. If the model's performance aligns closely with the desired outcomes, fine-tuning techniques are employed to further enhance its accuracy.
